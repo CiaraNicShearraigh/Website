@@ -8,11 +8,11 @@ font-size:16px;
 }
 h2 {
 	color: green;
-	background-color: orange;
+	background-color: blue;
 }
 ul {
-	background-color: yellow;
+	background-color: red;
 }
 ol {
-	background-color: teal;
+	background-color: orange;
 }
